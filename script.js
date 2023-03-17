@@ -1,1 +1,1 @@
-yourArray= ["one string" , 123, "one dance" , no];
+ ['one', 2, 'three', true, false, undefined, null];
