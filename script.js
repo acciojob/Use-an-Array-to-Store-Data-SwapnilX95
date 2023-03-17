@@ -1,1 +1,1 @@
-yourArray= ["one string" , 123, "one dance" , NO];
+yourArray= ["one string" , 123, "one dance" , no];
