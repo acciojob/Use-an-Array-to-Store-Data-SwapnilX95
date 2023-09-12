@@ -1,1 +1,1 @@
-							let yourArray=  ['one', 2, 'three', true, false, undefined, null , "shivani"];
+let yourArray=  ['one', 2, 'three', true, false, undefined, null , "shivani" , undefined , 2 ,false ,true];
